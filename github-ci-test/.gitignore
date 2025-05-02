@@ -1,0 +1,5 @@
+github-ci-test
+
+# Testscript output directory (can be symlink).
+#
+test-github-ci-test
