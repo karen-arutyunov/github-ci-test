@@ -9,5 +9,4 @@ url: https://example.org/github-ci-test
 email: karen@codesynthesis.com
 #build-error-email: karen@codesynthesis.com
 depends: * build2 >= 0.17.0
-
 depends: * bpkg >= 0.17.0
