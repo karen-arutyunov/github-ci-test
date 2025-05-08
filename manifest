@@ -12,5 +12,6 @@ depends: * build2 >= 0.17.0
 depends: * bpkg >= 0.17.0
 
 builds: none
-fedora-builds: default
-fedora-build-include: linux_debian_12-gcc_13.1
+one-builds: default
+one-build-include: linux_debian_12-gcc_13.1
+one-build-exclude: **
