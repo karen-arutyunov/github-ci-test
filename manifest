@@ -10,3 +10,7 @@ email: karen@codesynthesis.com
 #build-error-email: karen@codesynthesis.com
 depends: * build2 >= 0.17.0
 depends: * bpkg >= 0.17.0
+
+builds: none
+fedora-builds: default
+fedora-build-include: linux_debian_12-gcc_13.1
